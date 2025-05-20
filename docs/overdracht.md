@@ -15,8 +15,8 @@ Laatste status van het project en instructies voor een eventuele voortzetting.
 ## Build info
 
 -   **Unity versie:** 6000.1.2f1
--   **Scenes:** `MainMenu`, `Level1`, `Level2`, `Level3`, `EndScreen`
--   **Startscene:** `MainMenu`
+-   **Scenes:** `SampleScene`, `Pacman2`, `Pacman3`,
+-   **Startscene:** `SampleScene`
 -   **Spelmodus:** Singleplayer
 
 ---
@@ -27,6 +27,6 @@ Laatste status van het project en instructies voor een eventuele voortzetting.
 -   Visuele feedback verbeteren (bv. bij powerup actief)
 -   Extra levels toevoegen of random mazes genereren
 -   Score bewaren via `PlayerPrefs` of highscoresysteem
--   In de toekomst uitbreidbaar naar multiplayer (bijv. via Photon)
+-   In de toekomst uitbreidbaar naar multiplayer
 
 ---
